@@ -33,6 +33,11 @@
         android:layout_height="wrap_content"
         android:text="userid"
         android:id="@+id/userdetail"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="other"
+        android:id="@+id/otherdetail"/>
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
